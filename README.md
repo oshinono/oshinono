@@ -9,4 +9,4 @@
 
 ## Контакты
 - Telegram: https://t.me/oshinogj
-- Резюме HeadHunter: https://hh.ru/applicant/resumes/b54c0ef8ff0d73694b0039ed1f4a7661536144
+- Резюме HeadHunter: https://hh.ru/resume/b54c0ef8ff0d73694b0039ed1f4a7661536144
