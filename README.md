@@ -1,5 +1,37 @@
-## ~ Добро пожаловать в мой профиль ~  
+<h1 align="center">~ yo</h1>  
 
-<p align="left"> <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/25/b4/ad/25b4ad5aad7ff4ec2543e4af085dcee7.gif" 
+       alt="cool gif" 
+       style="border-radius: 50px; margin: 5px;">
+</p>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yopepsiii&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" alt="Python Badge">
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=fff&style=flat-square" alt="Pytest Badge">
+  <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" />
+  &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=fff&style=flat-square" alt="SQLAlchemy Badge">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square" alt="PostgreSQL Badge">
+  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white" />
+  &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Elastic-005571?logo=elastic&logoColor=fff&style=square" />
+  &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/RabbitMQ-F60?logo=rabbitmq&logoColor=fff&style=flat-square" alt="RabbitMQ Badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" alt="JavaScript Badge">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square" alt="TypeScript Badge">
+  &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/Solid-2C4F7C?logo=solid&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yopepsiii&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yopepsiii&layout=donut&theme=radical">
+</p>
+
