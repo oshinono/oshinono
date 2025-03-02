@@ -1,9 +1,9 @@
 <h1 align="center">~ yo</h1>  
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/25/b4/ad/25b4ad5aad7ff4ec2543e4af085dcee7.gif" 
+  <img src="https://99px.ru/sstorage/86/2017/04/image_861504171236119771230.gif" 
        alt="cool gif"
-       width="822px"
+       width="805px"
        border-radius="20px">
 </p>
 
