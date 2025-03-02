@@ -2,8 +2,9 @@
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/25/b4/ad/25b4ad5aad7ff4ec2543e4af085dcee7.gif" 
-       alt="cool gif" 
-       style="border-radius: 50px; margin: 5px;">
+       alt="cool gif"
+       width="822px"
+       border-radius="20px">
 </p>
 
 <p align="center">
