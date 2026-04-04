@@ -32,8 +32,3 @@
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oshinono&show_icons=true&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshinono&layout=donut&theme=radical">
-</p>
-
