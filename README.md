@@ -3,9 +3,9 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzYyeHV5ajVybmM2bjRvdnp5Nmg5MHZra3hubm83aW5ldDVndWl1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QhTx1YouTStoH27fVB/giphy.gif" 
        alt="cool gif"
-       width="400px">
+       width="325px">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FjOWt4d3hrc216NG04NnJydXVqMGFyYjhxMXZ0eXYyb3JweTVhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TKa7fQzChHylCQ89to/giphy.gif"
-    width="400px">
+    width="325px">
   
 </p>
 
